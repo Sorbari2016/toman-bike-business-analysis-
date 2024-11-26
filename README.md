@@ -2,7 +2,7 @@
 
 ## Objectives 
 ### Main Objectives 
-We need your expertise to develop a dashboard for Toman Bike Share that displays our key performance metrics for informed decision-making. 
+Toman Bike Share needs my expertise to develop a dashboard that displays their key performance metrics for informed decision-making. 
 
 ### Performance Indicator
 - Hourly Revenue Analysis.
@@ -18,7 +18,7 @@ We need your expertise to develop a dashboard for Toman Bike Share that displays
 5. Answer key important Analytical questions.
 
 ### Design & Aesthetics 
-Please ensure you use our company colours and make the navigation on the dashboard is easy to use. 
+As part of the essentials, they kindly want me to use company's colours and make the navigation on the dashboard is easy to use. 
 
 ## Data Source 
 
